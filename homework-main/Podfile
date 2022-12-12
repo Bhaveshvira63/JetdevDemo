@@ -9,8 +9,7 @@ target 'JetDevsHomeWork' do
   pod 'Kingfisher'
   pod 'SnapKit'
 	pod 'RxCocoa'
- 	pod 'Moya'
-   	pod 'Moya/RxSwift'
+ 	pod 'Alamofire'
 pod 'SVProgressHUD'
 
 
